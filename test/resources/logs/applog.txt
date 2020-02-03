@@ -1,0 +1,38 @@
+INFO    2020-02-01 14:13:00,892 [main] Base.BaseTest  - config file loaded!
+INFO    2020-02-01 14:13:00,893 [main] Base.BaseTest  - OR file loaded!
+INFO    2020-02-01 14:13:05,714 [main] Base.BaseTest  - Chrome launched
+INFO    2020-02-01 14:13:06,944 [main] Base.BaseTest  - navigated to site: http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-02-01 14:13:08,448 [main] Base.BaseTest  - clicked on element: mgrbtn_CSS
+INFO    2020-02-01 14:13:08,530 [main] Base.BaseTest  - element found: addCustbtn_CSS
+INFO    2020-02-01 14:13:08,674 [main] Base.BaseTest  - clicked on element: addCustbtn_CSS
+INFO    2020-02-01 14:13:08,802 [main] Base.BaseTest  - typed in an element: firstName_CSS -->value: james
+INFO    2020-02-01 14:13:08,866 [main] Base.BaseTest  - typed in an element: lastName_CSS -->value: watt
+INFO    2020-02-01 14:13:08,941 [main] Base.BaseTest  - typed in an element: postCode_CSS -->value: 523659.0
+INFO    2020-02-01 14:13:09,028 [main] Base.BaseTest  - clicked on element: sbmtCustbtn_CSS
+INFO    2020-02-01 14:13:09,035 [main] Base.BaseTest  - alert is present
+INFO    2020-02-01 14:13:11,044 [main] Base.BaseTest  - Customer added successfully with customer id :6
+INFO    2020-02-01 14:13:11,234 [main] Base.BaseTest  - clicked on element: addCustbtn_CSS
+INFO    2020-02-01 14:13:11,283 [main] Base.BaseTest  - typed in an element: firstName_CSS -->value: Harry 
+INFO    2020-02-01 14:13:11,332 [main] Base.BaseTest  - typed in an element: lastName_CSS -->value: Potter
+INFO    2020-02-01 14:13:11,381 [main] Base.BaseTest  - typed in an element: postCode_CSS -->value: 42335.0
+INFO    2020-02-01 14:13:11,434 [main] Base.BaseTest  - clicked on element: sbmtCustbtn_CSS
+INFO    2020-02-01 14:13:11,440 [main] Base.BaseTest  - alert is present
+INFO    2020-02-01 14:13:13,455 [main] Base.BaseTest  - Customer added successfully with customer id :7
+INFO    2020-02-01 14:13:13,534 [main] Base.BaseTest  - clicked on element: addCustbtn_CSS
+INFO    2020-02-01 14:13:13,590 [main] Base.BaseTest  - typed in an element: firstName_CSS -->value: John
+INFO    2020-02-01 14:13:13,643 [main] Base.BaseTest  - typed in an element: lastName_CSS -->value: Thomas
+INFO    2020-02-01 14:13:13,696 [main] Base.BaseTest  - typed in an element: postCode_CSS -->value: 44354.0
+INFO    2020-02-01 14:13:13,751 [main] Base.BaseTest  - clicked on element: sbmtCustbtn_CSS
+INFO    2020-02-01 14:13:13,757 [main] Base.BaseTest  - alert is present
+INFO    2020-02-01 14:13:15,771 [main] Base.BaseTest  - Customer added successfully with customer id :8
+INFO    2020-02-01 14:13:15,960 [main] Base.BaseTest  - clicked on element: openAccbtn_CSS
+INFO    2020-02-01 14:13:16,124 [main] Base.BaseTest  - Typing in element: custName_CSS -->value is: Harry Potter
+INFO    2020-02-01 14:13:16,227 [main] Base.BaseTest  - Typing in element: currency_CSS -->value is: Dollar
+INFO    2020-02-01 14:13:16,290 [main] Base.BaseTest  - clicked on element: processbtn_CSS
+INFO    2020-02-01 14:13:18,298 [main] Base.BaseTest  - Account created successfully with account Number :1016
+INFO    2020-02-01 14:13:18,364 [main] Base.BaseTest  - clicked on element: openAccbtn_CSS
+INFO    2020-02-01 14:13:18,461 [main] Base.BaseTest  - Typing in element: custName_CSS -->value is: Ron Weasly
+INFO    2020-02-01 14:13:18,531 [main] Base.BaseTest  - Typing in element: currency_CSS -->value is: Dollar
+INFO    2020-02-01 14:13:18,580 [main] Base.BaseTest  - clicked on element: processbtn_CSS
+INFO    2020-02-01 14:13:20,597 [main] Base.BaseTest  - Account created successfully with account Number :1017
+INFO    2020-02-01 14:13:20,631 [main] Base.BaseTest  - test execution completed!

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DataDriven Testing">
+
+
+	<listeners>
+<listener class-name="Listeners.CustomListeners"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+	</listeners>
+
+<!-- Test will be executed in the same sequence -->
+	<test name="Bank Manager Login Test">
+		<classes>
+			<class name="TestCases.BankMgrLoginTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Add Customer Test">
+		<classes>
+			<class name="TestCases.AddCustomerTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Open Account Test">
+		<classes>
+			<class name="TestCases.OpenAccountTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test name="Delete Customer Test">
+		<classes>
+			<class name="TestCases.DeleteCustomerTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->
